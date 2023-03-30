@@ -117,7 +117,17 @@ left: 83%;
         
         }
         
-        .menu li {
+        .menu li:hover {
+
+            background-color: #cc2222;
+    
+            border-radius: 5px;
+    
+            transition: 0.3s ease;
+    
+            }
+       
+       .menu li {
 
             padding: 5px 14px;
     
